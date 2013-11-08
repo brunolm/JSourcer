@@ -25,7 +25,7 @@ Folder structure example
 
 Call
 
-    Debug "..\..\Example\Input\\" "..\..\Example\Output\all.js"
+    JSourcer Debug "Example\Input\\" "Example\Output\all.js"
     
 Result
 - Output
