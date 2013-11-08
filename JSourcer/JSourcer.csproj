@@ -54,6 +54,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Example\Input\jquery.js" />
     <Content Include="Example\Input\002-test.js" />
     <Content Include="Example\Input\001-test.js" />
     <Content Include="Example\Input\000-test.js" />
